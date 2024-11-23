@@ -5,7 +5,7 @@ const Instructions = () => {
     <div>
         <video src='/moodle.mp4' muted autoPlay controls className='m-10 rounded-lg aspect-video w-[700px]  ' />
         <div className='mt-16'>
-            <h1>How to use M.A.E when you\'ve enrolled all your course</h1>
+            <h1>{"How to use M.A.E when you\'ve enrolled all your course"}</h1>
             <p>Download the extension on any browser of your choice</p>
             <p>Dm @admiral_prince_daniel on telegram to get your token </p>
             <p>Fill in your details on the extension and watch the extension do its magic</p>
