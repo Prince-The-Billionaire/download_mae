@@ -3,7 +3,7 @@ import React from 'react'
 const Instructions = () => {
   return (
     <div>
-        <video src='/moodle.mp4' muted autoPlay className='m-10 rounded-lg aspect-video w-[700px]  ' />
+        <video src='/moodle.mp4' muted autoPlay controls className='m-10 rounded-lg aspect-video w-[700px]  ' />
         <div className='mt-16'>
             <h1>How to use M.A.E when you've enrolled all your course</h1>
             <p>Download the extension on any browser of your choice</p>
